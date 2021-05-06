@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;  
+  }
+  body{
+      background-color: #323b7c;
+  }
+  .container {
+    transition: transform .2s; 
+    
+  }
+  body{
+      display: flex;
+      height: 100vh;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  img{
+      height: 50vh;
+  }
+  .container:hover{
+    transform: scale(1.1); 
+  }
