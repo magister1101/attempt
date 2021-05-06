@@ -8,7 +8,7 @@
 <body>
 
   <div class="container">
-    <a href="home.html"> 
+    <a href="home.php"> 
      <img src="image/bot.png" >
     </a>
   </div>
