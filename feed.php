@@ -11,15 +11,15 @@
 </head>
 <body>
     <div class="topnav">
-        <a href="home.html">Home</a>
-        <a href="products.html">Products</a>
-        <a class="active"  href="feed.html">Feedback</a>
+        <a href="home.php">Home</a>
+        <a href="products.php">Products</a>
+        <a class="active"  href="feed.php">Feedback</a>
     </div>
     <div class="bodd">
         <div class="container">
 
             <?php ?>
-            <form action="submitted.html">
+            <form action="submitted.php">
           
               <label for="name">Name</label>
               <input type="text" id="name" name="name" placeholder="Your name.." maxlength="50">
