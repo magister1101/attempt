@@ -12,19 +12,7 @@
      <img src="image/bot.png" >
     </a>
   </div>
-  <div class="box">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-
+  
 </body>
 
 </html>
